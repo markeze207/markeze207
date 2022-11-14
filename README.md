@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=markeze207&count_private=true&show_icons=true&theme=github_dark">
 
 # What I can
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,jquery,github,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,jquery,html,css,github,mysql,vscode)](https://skillicons.dev)<br>
