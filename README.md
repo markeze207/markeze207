@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markeze207&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=markeze207&count_private=true&show_icons=true&theme=github_dark">
+
+# What I can
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,jquery,github,mysql,vscode)](https://skillicons.dev)
